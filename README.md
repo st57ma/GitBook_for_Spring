@@ -5,7 +5,6 @@ Training Wheels for Spring Framework
 =======
 
 これはSpring　Frameworkのチュートリアルを利用して  
-  
 コンテンツです。  
 
 
