@@ -4,8 +4,7 @@ _Honda Team Presents_
 Training Wheels for Spring Framework
 =======
 
-これは[Spring　Frameworkのチュートリアル](http://spring.io/guides/gs/serving-web-content/)を利用して  
-コンテンツです。  
+これは[Spring　Frameworkのチュートリアル](http://spring.io/guides/gs/serving-web-content/)を進めるためのコンテンツです。  
 
 
 
