@@ -4,14 +4,14 @@
 * [MVCモデルとSpring](mvc.md)
 * [英語の文章を読むためのTips](english_tips.md)
 * [チュートリアルのための準備](preparation.md)
-  * STSをインストールする
-  * Gradle or Maven(必要あれば)
-  * 動作確認(Hello World)
+  * [STSをインストールする](install_sts.md)
+  * [Gradle or Maven(必要あれば)](install_build_tool.md)
+  * [動作確認(Hello World)](hello_world.md)
 * [チュートリアルを進める](Tutorial.md)
   * [What you’ll build](what_youll_build.md)
-  * What you’ll need
-  * How to complete this guide
-  * Create a web controller
-  * Make the application executable
-  * Test the service
-  * Summary
+  * [What you’ll need](what_youll_need.md)
+  * [How to complete this guide](how_to_complete_this_guide.md)
+  * [Create a web controller](create_a_web_controller.md)
+  * [Make the application executable](make_the_application_executable.md)
+  * [Test the service](test_the_service.md)
+  * [Summary](summary_.md)
