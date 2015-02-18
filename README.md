@@ -1,5 +1,5 @@
 Training Wheels for Spring Framework
-=======
+========
 
 これは[Spring　Frameworkのチュートリアル](http://spring.io/guides/gs/serving-web-content/)を進めるためのコンテンツです。  
 
