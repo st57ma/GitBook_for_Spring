@@ -1,6 +1,3 @@
-_Honda Team Presents_  
-
-
 Training Wheels for Spring Framework
 =======
 
@@ -12,4 +9,3 @@ Training Wheels for Spring Framework
 このコンテンツの解説を読みながらチュートリアルを進めることで、  
 ウェブサイトの解説や書籍は難しいと感じる人にとっては   
 Spring Frameworkの使い方、MVCモデルの理解の助けになるでしょう。  
-
